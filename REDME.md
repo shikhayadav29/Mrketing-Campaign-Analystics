@@ -15,7 +15,7 @@ This project focuses on predicting customer responses to direct marketing campai
 
 The project uses a modeling stream to process customer data, train a decision tree model, and generate predictions for the deployment dataset.
 
-"01_spss_workflow.png
+01_spss_workflow.png
 
 ---
 
