@@ -15,7 +15,7 @@ This project focuses on predicting customer responses to direct marketing campai
 
 The project uses a modeling stream to process customer data, train a decision tree model, and generate predictions for the deployment dataset.
 
-"SPSS Workflow" (01_spss_workflow.png)
+"01_spss_workflow.png
 
 ---
 
@@ -23,7 +23,7 @@ The project uses a modeling stream to process customer data, train a decision tr
 
 The CHAID Decision Tree model helps identify important factors influencing customer responses.
 
-"Decision Tree Analysis" (02_decision_tree.png)
+02_decision_tree.png
 
 Key Insights
 
@@ -37,7 +37,7 @@ Key Insights
 
 The trained model is applied to the deployment dataset to generate predicted response classes and confidence scores.
 
-"Prediction Results" (03_prediction_results.png)
+03_prediction_results.png
 
 Model Output
 
