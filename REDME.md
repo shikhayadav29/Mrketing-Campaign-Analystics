@@ -44,20 +44,4 @@ The model was applied to the unseen deployment dataset (`telco_x_deployment_data
 2. **Cost Optimization:** Suppressing non-responders saves up to **60%** of printing and postage expenses without sacrificing sales leads.
 3.
 
----
 
-💡 Business Recommendations
-
-1. Target customers who have a higher predicted probability of responding.
-2. Reduce unnecessary marketing and mailing expenses.
-3. Use customer behavior insights to improve campaign effectiveness.
-
----
-
-🧰 Tools & Technologies
-
-- IBM SPSS Modeler
-- CHAID Decision Tree
-- Data Preparation
-- Predictive Analytics
-- Customer Segmentation
